@@ -3192,3 +3192,12 @@ margin-top: -120px;
     font-size: 20px;
     color: red;
 }
+
+
+
+/*  barre menu noir en transparence */
+
+#masthead
+{
+	background-color: rgba(0, 0, 0, 0.7);
+}
